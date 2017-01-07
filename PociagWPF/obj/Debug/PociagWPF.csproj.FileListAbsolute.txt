@@ -10,3 +10,4 @@ c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\D
 c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.csproj.GenerateResource.Cache
 c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.exe
 c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.csprojResolveAssemblyReference.cache

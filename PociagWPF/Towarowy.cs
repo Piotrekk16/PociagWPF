@@ -23,7 +23,7 @@ namespace PociagWPF
 
         public override string Informacje() //metoda zwracająca informacje o wagonie towarowym
         {
-            return "Wagon osobowy: model " + model + ", masa " + masa + ", ładunek " + ladunek;
+            return "Wagon towarowy: model " + model + ", masa " + masa + ", ładunek " + ladunek;
         }
     }
 }
